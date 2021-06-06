@@ -1,4 +1,10 @@
-### Hi there 👋
+<h1 align="left" id="luansv1495-title">:wave: Olá, eu sou Luan Viana</h1>
+
+<p align="left">
+  <a href="https://github.com/luansv1495/luansv1495r">
+    <img src="https://komarev.com/ghpvc/?username=luansv1495" alt="page views" />
+  </a>
+</p>
 
 <!--
 **luansv1495/luansv1495** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
